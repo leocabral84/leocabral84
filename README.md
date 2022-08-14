@@ -1,6 +1,6 @@
 ### Olá meu nome é Leonardo 👋
 
-<!--
+
 - 🌱 Estudante autodidata de Programação
 <div align="center">
   <a href="https://github.com/leocabral84">
@@ -10,4 +10,4 @@
 
 
 
--->
+
