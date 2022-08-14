@@ -1,4 +1,4 @@
-### Olá meu nome é Leonardo 👋
+### Olá eu sou o Leonardo 👋
 
 
 - 🌱 Estudante autodidata de Programação
@@ -8,6 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocabral84&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-
-
+<img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
