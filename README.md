@@ -1,4 +1,4 @@
-### Olá meu nome é Leonardo 👋
+### Olá! eu sou o Leonardo 👋
 
 
 - 🌱 Estudante autodidata de Programação
