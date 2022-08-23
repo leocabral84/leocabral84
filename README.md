@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo 👋
 
 
-- 🌱 Estudante autodidata de Programação
+- 🌱 Estudante de Ciências da Computação
 <div align="center">
   <a href="https://github.com/leocabral84">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leocabral84&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
